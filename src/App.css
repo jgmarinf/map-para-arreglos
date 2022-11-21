@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: burlywood;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card-user {
+  background-color: rgba(0, 0, 0, 0.601);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.img {
+  border-radius: 50%;
+  width: 150px;
+}
